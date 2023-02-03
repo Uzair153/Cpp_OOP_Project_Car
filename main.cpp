@@ -12,7 +12,6 @@ using namespace std;
 int main() {
 	cout<<"\n\n\t\t  OOP TERM PROJECT";
 	cout<<"\n\n\n\t\t  Project Name : Car Managment System";
-	cout<<"\n\n\t\t\tMADE BY : Muhammad Abdullah, Uzair Ahmed, Ali Bashir, Rija Shahzaad";
 	cout<<"\n\n\t\t\tSubmitted To : Ma'am Ozma Omer";
 	cout<<"\n\n\t\t\tInstitite : University Of Education";
 	
